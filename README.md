@@ -1,7 +1,7 @@
 <!-- 🌌 BLOQURE - Dark Futuristic GitHub Profile README -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bloqure/bloqure/main/assets/banner.gif" alt="BLOQURE Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/bloqure/bloqure/main/banner.gif" alt="BLOQURE Banner" width="100%" />
 </div>
 
 <h1 align="center">👋 Welcome to BLOQURE</h1>
@@ -68,7 +68,7 @@ I design and build **smart decentralized ecosystems** merging **AI + Blockchain 
 > A decentralized blockchain integrating **solar-powered IoT mining devices**, **AI efficiency tracking**, and **tokenized green rewards**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bloqure/bloqure/main/assets/solar-mining-diagram.png" width="70%" alt="Solar Mining Chain Architecture" />
+  <img src="https://raw.githubusercontent.com/bloqure/bloqure/main/solar-mining-diagram.png" width="70%" alt="Solar Mining Chain Architecture" />
 </p>
 
 - 🌞 Green blockchain for sustainable mining  
@@ -95,11 +95,11 @@ I design and build **smart decentralized ecosystems** merging **AI + Blockchain 
 > 🌍 *"Every watt of clean energy deserves a place on the blockchain."*  
 > Transforming the future with decentralized intelligence, sustainability, and creativity.  
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bloqure/bloqure/main/assets/futuristic-line.gif" width="80%">
-</div>
-
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bloqure/bloqure/main/futuristic-line.gif" width="80%" />
+</div>
 
 <div align="center">
   <sub>© 2025 BLOQURE • Crafted with 🧠 AI + ⚙️ Blockchain + 💡 Innovation</sub>
